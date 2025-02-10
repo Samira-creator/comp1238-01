@@ -14,5 +14,5 @@
 ## Friday
 10:00 - IT Essential Lab
 12:00 - College Communication1000 
-## https://github.com/samira-creator/comp1238.md
+## https://github.com/samira-creator/comp1238-01
 
