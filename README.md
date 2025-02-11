@@ -14,5 +14,5 @@
 ## Friday
 10:00 - IT Essential Lab
 12:00 - College Communication1000 
-## [README File](README.md)
+## [COMP1234](comp1238.md)
 
